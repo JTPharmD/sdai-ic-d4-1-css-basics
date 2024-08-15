@@ -5,3 +5,7 @@ body {
 p {
     color: darkslategray;
 }
+
+nav a {
+    color: white
+}
